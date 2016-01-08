@@ -1,0 +1,4 @@
+core = 7.x
+name = My theme
+base theme = garland
+description = Ini theme yang saya buat pertama
