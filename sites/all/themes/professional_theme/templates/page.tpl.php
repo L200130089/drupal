@@ -307,7 +307,7 @@
 
 
   <div id="footer">
-    <?php if ($page['footer_first'] || $page['footer_second'] ||| $page['footer_third']): ?>
+    <?php if ($page['footer_first'] || $page['footer_second'] || $page['footer_third']): ?>
       <div id="footer-area" class="clearfix">
         <?php if ($page['footer_first']): ?>
         <div class="column"><?php print render($page['footer_first']); ?></div>
